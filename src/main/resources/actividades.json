@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "nombre": "actividad_0",
+    "precio": 33291.32863181667,
+    "felicidad_de_retorno": 12009
+  },
+  {
+    "id": 1,
+    "nombre": "actividad_1",
+    "precio": 11404.040631609147,
+    "felicidad_de_retorno": 50178
+  },
+  {
+    "id": 2,
+    "nombre": "actividad_2",
+    "precio": 5266.356090680424,
+    "felicidad_de_retorno": 40991
+  },
+  {
+    "id": 3,
+    "nombre": "actividad_3",
+    "precio": 61713.0821953792,
+    "felicidad_de_retorno": 5052
+  },
+  {
+    "id": 4,
+    "nombre": "actividad_4",
+    "precio": 70998.62679196088,
+    "felicidad_de_retorno": 80047
+  },
+  {
+    "id": 5,
+    "nombre": "actividad_5",
+    "precio": 78746.84103559719,
+    "felicidad_de_retorno": 44228
+  },
+  {
+    "id": 6,
+    "nombre": "actividad_6",
+    "precio": 99721.02753441459,
+    "felicidad_de_retorno": 74986
+  },
+  {
+    "id": 7,
+    "nombre": "actividad_7",
+    "precio": 54720.51793139623,
+    "felicidad_de_retorno": 74155
+  },
+  {
+    "id": 8,
+    "nombre": "actividad_8",
+    "precio": 84262.36316148208,
+    "felicidad_de_retorno": 9988
+  },
+  {
+    "id": 9,
+    "nombre": "actividad_9",
+    "precio": 44937.85831059302,
+    "felicidad_de_retorno": 21925
+  },
+  {
+    "id": 10,
+    "nombre": "actividad_10",
+    "precio": 45447.88038312008,
+    "felicidad_de_retorno": 53799
+  },
+  {
+    "id": 11,
+    "nombre": "actividad_11",
+    "precio": 47384.78769365655,
+    "felicidad_de_retorno": 71004
+  },
+  {
+    "id": 12,
+    "nombre": "actividad_12",
+    "precio": 22970.718990070225,
+    "felicidad_de_retorno": 50848
+  },
+  {
+    "id": 13,
+    "nombre": "actividad_13",
+    "precio": 99374.02714177586,
+    "felicidad_de_retorno": 37958
+  },
+  {
+    "id": 14,
+    "nombre": "actividad_14",
+    "precio": 12161.096317647125,
+    "felicidad_de_retorno": 29925
+  },
+  {
+    "id": 15,
+    "nombre": "actividad_15",
+    "precio": 63216.50065302963,
+    "felicidad_de_retorno": 5425
+  },
+  {
+    "id": 16,
+    "nombre": "actividad_16",
+    "precio": 19459.08024096792,
+    "felicidad_de_retorno": 57828
+  },
+  {
+    "id": 17,
+    "nombre": "actividad_17",
+    "precio": 75336.54432451057,
+    "felicidad_de_retorno": 32964
+  },
+  {
+    "id": 18,
+    "nombre": "actividad_18",
+    "precio": 25900.586302726348,
+    "felicidad_de_retorno": 48322
+  },
+  {
+    "id": 19,
+    "nombre": "actividad_19",
+    "precio": 88814.52865387737,
+    "felicidad_de_retorno": 51839
+  },
+  {
+    "id": 20,
+    "nombre": "actividad_20",
+    "precio": 67555.24199680459,
+    "felicidad_de_retorno": 47774
+  },
+  {
+    "id": 21,
+    "nombre": "actividad_21",
+    "precio": 48031.74616162742,
+    "felicidad_de_retorno": 12436
+  },
+  {
+    "id": 22,
+    "nombre": "actividad_22",
+    "precio": 64608.57703358742,
+    "felicidad_de_retorno": 57973
+  },
+  {
+    "id": 23,
+    "nombre": "actividad_23",
+    "precio": 95908.95222649765,
+    "felicidad_de_retorno": 93706
+  },
+  {
+    "id": 24,
+    "nombre": "actividad_24",
+    "precio": 56660.008535869034,
+    "felicidad_de_retorno": 23977
+  },
+  {
+    "id": 25,
+    "nombre": "actividad_25",
+    "precio": 29171.26951121075,
+    "felicidad_de_retorno": 2885
+  },
+  {
+    "id": 26,
+    "nombre": "actividad_26",
+    "precio": 30811.881795559348,
+    "felicidad_de_retorno": 10172
+  },
+  {
+    "id": 27,
+    "nombre": "actividad_27",
+    "precio": 85138.61238053435,
+    "felicidad_de_retorno": 90723
+  },
+  {
+    "id": 28,
+    "nombre": "actividad_28",
+    "precio": 61253.82216386449,
+    "felicidad_de_retorno": 11332
+  },
+  {
+    "id": 29,
+    "nombre": "actividad_29",
+    "precio": 64732.169523679,
+    "felicidad_de_retorno": 82523
+  },
+  {
+    "id": 30,
+    "nombre": "actividad_30",
+    "precio": 14300.529986154475,
+    "felicidad_de_retorno": 97064
+  },
+  {
+    "id": 31,
+    "nombre": "actividad_31",
+    "precio": 70703.92724829748,
+    "felicidad_de_retorno": 78555
+  },
+  {
+    "id": 32,
+    "nombre": "actividad_32",
+    "precio": 11220.03488720993,
+    "felicidad_de_retorno": 67872
+  },
+  {
+    "id": 33,
+    "nombre": "actividad_33",
+    "precio": 67537.57062192002,
+    "felicidad_de_retorno": 8722
+  },
+  {
+    "id": 34,
+    "nombre": "actividad_34",
+    "precio": 82693.35839609304,
+    "felicidad_de_retorno": 8923
+  },
+  {
+    "id": 35,
+    "nombre": "actividad_35",
+    "precio": 50035.56000377693,
+    "felicidad_de_retorno": 35845
+  },
+  {
+    "id": 36,
+    "nombre": "actividad_36",
+    "precio": 93375.46122833792,
+    "felicidad_de_retorno": 63683
+  },
+  {
+    "id": 37,
+    "nombre": "actividad_37",
+    "precio": 41298.52003797398,
+    "felicidad_de_retorno": 89531
+  },
+  {
+    "id": 38,
+    "nombre": "actividad_38",
+    "precio": 62781.1751688354,
+    "felicidad_de_retorno": 13716
+  },
+  {
+    "id": 39,
+    "nombre": "actividad_39",
+    "precio": 27619.58744053872,
+    "felicidad_de_retorno": 78297
+  },
+  {
+    "id": 40,
+    "nombre": "actividad_40",
+    "precio": 59598.83744492358,
+    "felicidad_de_retorno": 43238
+  },
+  {
+    "id": 41,
+    "nombre": "actividad_41",
+    "precio": 77757.62865566606,
+    "felicidad_de_retorno": 71501
+  },
+  {
+    "id": 42,
+    "nombre": "actividad_42",
+    "precio": 538.1539243173971,
+    "felicidad_de_retorno": 87446
+  },
+  {
+    "id": 43,
+    "nombre": "actividad_43",
+    "precio": 87119.79363224794,
+    "felicidad_de_retorno": 64564
+  },
+  {
+    "id": 44,
+    "nombre": "actividad_44",
+    "precio": 41947.78894565039,
+    "felicidad_de_retorno": 12134
+  },
+  {
+    "id": 45,
+    "nombre": "actividad_45",
+    "precio": 33575.157296810656,
+    "felicidad_de_retorno": 41095
+  },
+  {
+    "id": 46,
+    "nombre": "actividad_46",
+    "precio": 12692.05183012021,
+    "felicidad_de_retorno": 48806
+  },
+  {
+    "id": 47,
+    "nombre": "actividad_47",
+    "precio": 30937.691120349908,
+    "felicidad_de_retorno": 23741
+  },
+  {
+    "id": 48,
+    "nombre": "actividad_48",
+    "precio": 154.96469205966702,
+    "felicidad_de_retorno": 14278
+  },
+  {
+    "id": 49,
+    "nombre": "actividad_49",
+    "precio": 18598.154807073064,
+    "felicidad_de_retorno": 61938
+  }
+]

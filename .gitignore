@@ -1,0 +1,7 @@
+project/target
+target
+/target
+/.idea
+/.bsp
+*.log
+*.csv
